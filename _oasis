@@ -1,3 +1,4 @@
+
 OASISFormat: 0.2
 Name: ocaml-ptree
 Version: 0.0.1
@@ -7,7 +8,7 @@ BuildTools: ocamlbuild
 Plugins: DevFiles (0.2), META (0.2)
 Synopsis: patricia tree
 
-Library "ptree"
+Library "patriciatree"
   Install$: true
   Path: ./
   ByteOpt: -annot
