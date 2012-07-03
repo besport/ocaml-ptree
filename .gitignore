@@ -1,1 +1,8 @@
 _build
+Makefile
+_tags
+configure
+META
+myocamlbuild.ml
+ptree.mllib
+setup.*

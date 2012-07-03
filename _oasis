@@ -1,8 +1,8 @@
-OASISFormat: 0.1
+OASISFormat: 0.2
 Name: ocaml-ptree
 Version: 0.0.1
-LicenseFile: COPYING
 Authors:
+License: GPL
 BuildTools: ocamlbuild
 Plugins: DevFiles (0.2), META (0.2)
 Synopsis: patricia tree
