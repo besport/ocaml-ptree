@@ -1,4 +1,4 @@
 ocaml-pree
 ==========
 
-a functionnal implem of patricia tree 
+implem of patricia tree used for autocomplete
