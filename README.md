@@ -1,11 +1,13 @@
-ocaml-pree
-==========
+ocaml-ptree
+===========
 
-implem of patricia tree used for autocomplete
+Implementation of patricia-trees, a datastructure usually leveraged for autocompletes.
 
-(c) 2012 Be Sport, Inc - 580 Howard St San Francisco 94105 CA USA
+Ocaml-ptree is part of the Be Sport codebased and is released under the LGPL.
 
-hackers@besport.com
+Copyright 2012 Be Sport, Inc - 580 Howard St San Francisco 94105 CA USA
+
+For more information, contact hackers@besport.com
 
 About Be Sport
 ==============
@@ -15,3 +17,5 @@ We believe that sport identity is defined by sport activity. Our goal is to brin
 Be Sport is currently in development for browser and mobile platforms. We would love to hear your ideas on how to make them better and easier to use. Both will be officially launched in the summer of 2012.
 
 Game on!
+
+Checkout http://www.besport.com
