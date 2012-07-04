@@ -1,4 +1,4 @@
-ocaml-ptree
+Ocaml-ptree
 ===========
 
 Implementation of patricia-trees, a datastructure usually leveraged for autocompletes.
